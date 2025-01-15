@@ -25,7 +25,7 @@ npm install
 npm run start
 📱 Requisitos del Sistema
 
-iOS 12.0 o superior
+
 Android 8.0 o superior
 GPS habilitado
 Conexión a Internet
