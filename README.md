@@ -15,7 +15,7 @@ Comunidad Activa: Conecta con otros deportistas
 
 ⚙️ Instalación
 bashCopy# Clonar el repositorio
-git clone https://github.com/percyby200/versus-app-.git
+git clone https://github.com/percyby2000/Versus-App-.git
 
 # Instalar dependencias
 cd versus-app
@@ -43,14 +43,5 @@ Navegación en tiempo real
 
 
 🔐 Permisos Requeridos
-
 Ubicación (GPS)
 
-
-
-
-📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-📞 Contacto
-[Tu Nombre] - @twitter_handle
-Link del Proyecto: https://github.com/username/versus-app
