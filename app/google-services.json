@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "330092572066",
+    "firebase_url": "https://firevs-6973b-default-rtdb.firebaseio.com",
+    "project_id": "firevs-6973b",
+    "storage_bucket": "firevs-6973b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330092572066:android:c35f86e2d153d8773d16fb",
+        "android_client_info": {
+          "package_name": "com.example.vs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76L_H7YzpZvlERuyhOtTkocFcIg1Ei8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
